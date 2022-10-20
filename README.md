@@ -1,4 +1,4 @@
-<h4 align="center"> <img src="./logo.png">Medusa combo files, Hashcat rules and dictionaries as well as JTR rules combined in one repo</h3> 
+<h4 align="center"> <img src="./logo.png"><br>Medusa combo files, Hashcat rules and dictionaries as well as JTR rules combined in one repo</h3> 
 
 ## Content
 
